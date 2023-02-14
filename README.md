@@ -1,15 +1,15 @@
 # Animes Favoritos
 
 ## Portadas
-### Aquiles Alvarez
-![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
-### Cinthia Viteri
-*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+### Tokyo Revengers
+![Tokyo Revengers](katamile/katamile.github.io/imagen_2023-02-13_215850210.png)
+### Sono Bisque Doll wa Koi wo Suru
+![Sono Bisque Doll wa Koi wo Suru](katamile/katamile.github.io/imagen_2023-02-13_215947348.png)
 
 ## Resultados 
 
 Tablas 
-| First Header  | Second Header |
+| Anime  | Calificación|
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Tokyo Revengers  | ⭐⭐⭐⭐⭐ |
+| Sono Bisque Doll wa Koi wo Suru | ⭐⭐⭐⭐⭐  |
