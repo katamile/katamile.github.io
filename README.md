@@ -1,6 +1,6 @@
-# Resultados electorales 
+# Animes Favoritos
 
-## Imágenes de los candidatos
+## Portadas
 ### Aquiles Alvarez
 ![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
 ### Cinthia Viteri
@@ -9,7 +9,7 @@
 ## Resultados 
 
 Tablas 
-| Candidato | Votos   |
-| ------- | -------- |
-| Aquiles Alvarez  | 551, 996   |
-| Cinthia Viteri   | 420, 208   |
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
