@@ -1,6 +1,8 @@
 # Bienvenido a mi página de GitHub
 Hola, mi nombre es **Milena Orellana Maridueña** y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
+<img src="/imagen_2023-02-13_223317769.png" />
+
 ## Acerca de mí
 Soy una *programadora*. Me apasiona la programación y la seguridad informática y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
 
